@@ -1,7 +1,7 @@
 # Hi there 👋
 <p align="center">
   <a href="https://github.com/oppapi">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="oppapi" /></a>
 </p>
 
 <p align="center">
@@ -10,6 +10,6 @@
 </p>
 <div class="stats-container">
   <img src="https://github-readme-stats.vercel.app/api?username=oppapi&show_icons=true&theme=tokyonight" alt="oppapi's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppapi&hide_progress=true"/>
 </div>
 
