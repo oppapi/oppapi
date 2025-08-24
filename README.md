@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="http://tinyurl.com/OLAJohnCarl" target="_blank" style="color:#f75c7e; font-weight:bold;">Check out my Portfolio</a>
+  <a href="http://tinyurl.com/OLAJohnCarl">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-f75c7e?style=for-the-badge&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
