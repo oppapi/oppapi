@@ -7,10 +7,15 @@
 </p>
 
 <p align="center">
+  <a href="http://tinyurl.com/OLAJohnCarl" target="_blank" style="color:#f75c7e; font-weight:bold;">Check out my Portfolio</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/oppapi/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Student%20Programmer%20Learning;Passionate%20about%20Web%20and%20App%20Development;Interested%20in%20Desktop%20Development;Exploring%20UI%2FUX%20Design;Always%20Improving%20Coding%20Skills&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 <div class="stats-container" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oppapi&show_icons=true&theme=tokyonight" alt="oppapi's GitHub stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=oppapi&theme=tokyonight&hide_border=true"/>
