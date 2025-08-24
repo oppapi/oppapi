@@ -10,6 +10,6 @@
 </p>
 <div class="stats-container">
   <img src="https://github-readme-stats.vercel.app/api?username=oppapi&show_icons=true&theme=tokyonight" alt="oppapi's GitHub stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=oppapi&theme=tokyonight&hide_border=true" alt="oppapi's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"/>
 </div>
 
