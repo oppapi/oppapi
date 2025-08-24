@@ -1,7 +1,7 @@
 # Hi there 👋
 <a href="https://github.com/oppapi/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/oppapi/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/oppapi/github-stats-transparent/output/generated/languages.svg)
+<img src="https://github.com/oppapi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/oppapi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 </a>
