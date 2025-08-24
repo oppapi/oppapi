@@ -1,7 +1,2 @@
 # Hi there 👋
-<a href="https://github.com/oppapi/github-stats-transparent">
-
-<img src="https://github.com/oppapi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/oppapi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
-</a>
+![oppapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppapi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
