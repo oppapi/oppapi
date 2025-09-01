@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=oppapi&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="oppapi's GitHub stats" style="margin-right: 30px;"/>
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=oppapi&theme=tokyonight&hide_border=true" alt="oppapi's GitHub streak"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=oppapi&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="oppapi's GitHub stats" style="margin-right: 30px;"/>
+  <img height="175" src="https://nirzak-streak-stats.vercel.app/?user=oppapi&theme=tokyonight&hide_border=true" alt="oppapi's GitHub streak"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oppapi&bg_color=1a1b27&&color=ffffff&line=6a9bed&point=aa84dc&area=false&hide_border=true">
 </div>
