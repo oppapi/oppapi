@@ -1,6 +1,6 @@
 <h2 align="center" style="color:#70A5FD;">✨ Welcome to My GitHub ✨</h2>
 <div align="center">
-<img src="assets/1399673129.mintbeary_kyogrebig.gif" width="10%"/>
+<img src="assets/1399673129.mintbeary_kyogrebig.gif" width="5%"/>
 </div>
 
 <p align="center" style="color:#BF91F3;">
