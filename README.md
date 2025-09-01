@@ -1,4 +1,7 @@
 <h2 align="center" style="color:#70A5FD;">✨ Welcome to My GitHub ✨</h2>
+<div align="center">
+<img src="assets/1399673129.mintbeary_kyogrebig.gif" width="10%"/>
+</div>
 
 <p align="center" style="color:#BF91F3;">
   I’m John Carl Ola, a developer passionate about building web and desktop applications.<br/>
