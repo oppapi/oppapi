@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/oppapi/readme-typing-svg">
+  <a">
     <img src="https://readme-typing-svg.demolab.com/?lines=Student%20Programmer%20Learning;Passionate%20about%20Web%20and%20App%20Development;Interested%20in%20Desktop%20Development;Exploring%20UI%2FUX%20Design;Always%20Improving%20Coding%20Skills&font=Fira%20Code&center=true&width=650&height=45&color=70A5FD&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
